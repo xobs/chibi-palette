@@ -4,6 +4,7 @@
 // Love to Code
 // Effects Template
 enum effects {
+    NO_EFFECTS,
     CONSTANT,
     FADE,
     HEARTBEAT,
